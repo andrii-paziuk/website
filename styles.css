@@ -1,0 +1,9 @@
+.mainblock{
+    min-width: none;
+    min-height: 500px;
+    background-color: aqua;
+    font-size: 15;
+    color: red;
+    text-align: center;
+    padding-top: 15px;
+}
