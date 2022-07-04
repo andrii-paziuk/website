@@ -1,9 +1,80 @@
-.mainblock{
-    min-width: none;
-    min-height: 500px;
-    background-color: aqua;
-    font-size: 15;
-    color: red;
+.html{
+    background-color: #030E1E;
+    font-family: sans-serif;
+}
+.body{
     text-align: center;
-    padding-top: 15px;
+    margin: 0;
+}
+
+.name{
+    padding-top: 550px;
+    font-size: 150;
+    font-weight: bolder;
+    color: white;
+
+}
+.name p{
+    font-size: 70;
+    margin: 10;
+    padding: 0;
+    font-weight: default;
+
+}
+.photo_block{
+    padding-top: 500px;
+    margin: 600px auto;
+}
+.photo_block p{
+    padding-top: 400px;
+    font-size: 100;
+    font-weight: bolder;
+    color: white;
+    line-height: 100px;
+}
+.photo_block h2{
+    margin-top: 500px;
+    padding-top: 1200px;
+    font-size: 100;
+    font-weight: bolder;
+    color: white;
+    line-height: 150px;
+}
+.photo_block h3{
+    font-size: 100;
+    font-weight: bolder;
+    color: white;
+    line-height: 100px;
+}
+.photo{
+    margin: 120px auto;
+    width: 547px;
+    min-height: 1051px;
+    background: url(photos/mainphoto1.jpg);
+    box-shadow: 0px 4px 4px rgba(1, 1, 1, 0.63);
+    border-radius: 85px;
+    background-repeat: no-repeat;
+}
+.skills{
+    padding-top: 500px;
+}
+.skills p{
+    font-size: 150;
+    font-weight: bolder;
+    color: white;
+    line-height: 800px;
+}
+.skill1{
+    margin: 50px auto;
+    max-width: 1800px;;
+    text-align: left;
+
+}
+.skill1 p{
+    font-size: 50;
+    line-height: 50px;
+}
+.linux{
+    min-height: 50px;
+    min-width: 50px;
 }
