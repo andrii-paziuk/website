@@ -1,5 +1,5 @@
 .html{
-    background-color: #1f3419;
+    background-color: #0c0f22;
     font-family: sans-serif;
 }
 .body{
@@ -8,73 +8,67 @@
 }
 
 .name{
-    padding-top: 400px;
-    font-size: 100;
-    font-weight: bolder;
-    color: white;
-
-}
-.name p{
-    margin: 10;
-    padding: 0;
-    font-weight: default;
-
-}
-.photo_block{
-    padding-top: 200px;
-    margin: 400px auto;
-}
-.photo_block p{
-    padding-top: 400px;
-    font-size: 85;
-    font-weight: bolder;
-    color: white;
-    line-height: 100px;
-}
-.photo_block h2{
-    padding-top: 500px;
-    font-size: 65;
-    font-weight: bolder;
-    color: white;
-    line-height: 100px;
-}
-.photo_block h3{
+    padding-top: 40px;
     font-size: 60;
     font-weight: bolder;
     color: white;
-    line-height: 20px;
 }
-.photo{
-    margin: 120px auto;
-    width: 400px;
-    min-height: 650px;
-    background: url(photos/mainphoto1.jpg);
-    box-shadow: 0px 4px 4px rgba(1, 1, 1, 0.63);
-    border-radius: 85px;
-    background-repeat: no-repeat;
-}
-.skills{
-    padding-top: 450px;
-}
-.skills p{
-    font-size: 70;
+.fullname{
+    display: inline-block;
+    font-size: 40;
     font-weight: bolder;
     color: white;
-    line-height: 200px;
+    margin-right: 50px;
+    width: 400px;
 }
-.skill1{
-    margin:  auto;
-    max-width: 1000px;
-    border-radius: 5px;
-    border: 1px solid;
-    border-color: red;
-    text-align: left;
-
+.fullname1{
+    display: inline-block;
+    font-size: 40;
+    font-weight: bolder;
+    color: white;
+    padding-top: 50px;
+    margin-left: 50px;
+    width: 400px;
 }
-.skill1 p{
-    font-size: 50;
-    line-height: 150px;
+.skills{
+    font-size: 60;
+    font-weight: bolder;
+    color: white;
+    line-height: 160px;
+    margin-top: 30px;
+    
 }
-.linux{
-    min-width: 50px;
+.skill{
+    font-size: 40;
+    font-weight: bolder;
+    color: white;
+    text-align: center;
+    line-height: 80px;
+}
+.greenbox{
+    display: inline-block;
+    position: relative;
+    margin-left: 5px;
+    margin-top: 15px;
+    height: 32px;
+    width: 32px;
+    background-color: greenyellow;
+}
+.greenbox1{
+    display: inline-block;
+    position: relative;
+    margin-left: 100px;
+    margin-top: 15px;
+    height: 32px;
+    width: 32px;
+    background-color: greenyellow;
+}
+.greybox{
+    display: inline-block;
+    position: relative;
+    margin-left: 5px;
+    margin-top: 15px;
+    height: 32px;
+    width: 32px;
+    background-color: grey;
 }
