@@ -2,14 +2,22 @@
     background-color: #07192F;
     font-family: sans-serif;
 }
-h1, h2, h3, a{
+.body p{
     color:white;
     font-weight: bold;
 }
-h1{
+.body a{
+    cursor: pointer; 
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+}
+.name p{
     font-size: 32px;
 }
-h2{
+.myskills p{
+    font-size: 32px;
+}
+.fullname p{
     font-size: 24px;
 }
 .body{
@@ -26,11 +34,6 @@ h2{
 .fullname a:hover {
     text-decoration: none; 
     color: #00eeff;
-   }
-   
-.fullname a{
-    cursor: pointer; 
-    text-decoration: none;
 }
 .myskills{
     margin-top: 40px;
