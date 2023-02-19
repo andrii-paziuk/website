@@ -1,0 +1,92 @@
+.html{
+    background-color: #07192F;
+    font-family: sans-serif;
+}
+.body{
+    text-align: center;
+    margin: 0;
+}
+
+.name{
+    padding-top: 40px;
+    font-size: 60;
+    font-weight: bolder;
+    color: white;
+}
+.fullname{
+    display: inline-block;
+    font-size: 45;
+    font-weight: bolder;
+    color: white;
+    margin-right: 50px;
+    width: 400px;
+}
+.fullname1{
+    display: inline-block;
+    font-size: 35;
+    font-weight: bolder;
+    color: white;
+    padding-top: 50px;
+    margin-left: 50px;
+    width: 400px;
+}
+.linkedin{
+    display: inline-block;   
+    padding-top: 50px;
+    margin-left: 50px;
+    width: 400px;
+    vertical-align: center;
+    
+}
+.linkedin a:hover {
+    text-decoration: none; 
+    color: #00eeff;
+   }
+   
+.linkedin a{
+    cursor: pointer; 
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 40;
+    color: white;
+}
+.linkedin img{
+    height: 50px;
+    width: 70px;
+}
+.myskills{
+    font-size: 60;
+    font-weight: bolder;
+    color: white;
+    line-height: 160px;
+    margin-top: 30px;
+}
+.boxes{
+    max-width: 200px;
+    vertical-align: middle;
+    display: inline-block;
+}
+.skills{
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+    min-width: 300px;
+    font-size: 40;
+    font-weight: bolder;
+    color: white;
+    line-height: 80px;
+}
+.greenbox{
+    display: inline-block;
+    position: relative;
+    padding: 17px;
+    background-color: greenyellow;
+    margin: 5px;
+}
+.greybox{
+    display: inline-block;
+    position: relative;
+    padding: 17px;
+    margin: 5px;
+    background-color: grey;
+}
