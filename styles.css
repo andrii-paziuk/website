@@ -26,10 +26,12 @@
     display: inline-block;
     min-width: 220px;
     text-align: left;
+    max-width: 220px;
 }
 .fullname1{
     display: inline-block;
     min-width: 220px;
+    max-width: 220px;
     text-align: left;
     margin-left: 120px;
     font-weight: bold;
