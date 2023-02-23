@@ -1,0 +1,92 @@
+.html{
+    background-color: #07192F;
+    font-family: sans-serif;
+}
+.body p{
+    color:white;
+}
+.body a{
+    cursor: pointer; 
+    text-decoration: none;
+    color:rgb(0, 238, 255);
+}
+.name{
+    margin-top: 40px;
+    font-weight: bold;
+}
+.name p{
+    font-size: 32px;
+    line-height: 70px;
+    margin:0;
+}
+.myskills p{
+    font-size: 32px;
+}
+.fullname{
+    display: inline-block;
+    min-width: 220px;
+    text-align: left;
+}
+.fullname1{
+    display: inline-block;
+    width: 220px;
+    text-align: left;
+    margin-left: 120px;
+    font-weight: bold;
+}
+.fullname1 p{
+    font-size: 24px;
+    margin: 0;
+    line-height: 65px;
+    color:rgb(255, 255, 255);
+}
+.fullname a:hover {
+    text-decoration: none; 
+    color: #ff255b;
+}
+.fullname p{
+    font-size: 24px;
+    margin: 0;
+    line-height: 65px;
+    color:rgb(255, 255, 255);
+}
+
+.body{
+    text-align: center;
+    margin: 0;
+}
+.myskills{
+    margin-top: 50px;
+    font-weight: bold;
+}
+.boxes{
+    vertical-align: middle;
+    display: inline-block;
+}
+.skills{
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 30px;
+    min-width: 140px;
+    font-size: 20px;
+}
+.greenbox{
+    display: inline-block;
+    position: relative;
+    padding: 11px;
+    background-color: greenyellow;
+    margin: 2px;
+}
+.greybox{
+    display: inline-block;
+    position: relative;
+    padding: 11px;
+    margin: 2px;
+    background-color: grey;
+}
+.skillblock{
+    display: inline-block;
+    position: relative;
+    min-width: 330px;
+}
